@@ -1,0 +1,28 @@
+body{
+    
+    background-color: tomato;
+}
+
+.timer{
+    
+    width: 25rem;
+    height: 25rem;
+   background-color: aqua;
+   margin-left: 40rem;
+   margin-top: 10rem;
+   border-radius: 45px;
+   box-shadow: 5px 10px lightgray;
+
+}
+
+.btn1{
+    width: 8rem;
+    height: 2rem;
+    background-color: lawngreen;
+    border-radius: 25px;
+}
+
+.btn1:hover{
+    background-color: blueviolet;
+    width:  10rem;
+}
